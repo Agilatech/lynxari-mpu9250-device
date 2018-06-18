@@ -1,0 +1,7 @@
+{
+    "streamPeriod": 0,
+    "devicePoll": 500,
+    "deltaPercent": 1,
+    "bus": "/dev/i2c-2",
+    "rate": 500
+}

@@ -1,0 +1,21 @@
+{
+  "name": "@agilatech/lynxari-mpu9250-device",
+  "version": "1.0.0",
+  "description": "MPU9250 device driver for use in the Agilatech Lynxari system",
+  "main": "mpu9250-scout.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Agilatech/lynxari-mpu9250-device.git"
+  },
+  "keywords": [
+    "sensor",
+    "mpu9250",
+    "accelerometer",
+    "mpu"
+  ],
+  "author": "Agilatech <scott@agilatech.com> (http://agilatech.com)",
+  "license": "MIT",
+  "dependencies": {
+    "@agilatech/mpu9250": "*"
+  }
+}
